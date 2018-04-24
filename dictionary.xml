@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary>
+    <dict>
+        <item>
+            <Word>w</Word>
+            <Meanings>m</Meanings>
+        </item>
+        <item>
+            <Word>w2</Word>
+            <Meanings>m1</Meanings>
+            <Meanings>m2</Meanings>
+            <Meanings>m3</Meanings>
+        </item>
+    </dict>
+</dictionary>
